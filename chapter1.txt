@@ -1,0 +1,3 @@
+its a first chapter written in vim..:qw
+:wq
+
